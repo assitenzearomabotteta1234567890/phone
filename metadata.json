@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Mini Pro™ - Landing Page",
+  "description": "Una landing page Shopify-style ad alta conversione per il mini smartphone virale, completa di social proof, caratteristiche tecniche e assistente AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
